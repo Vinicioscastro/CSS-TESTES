@@ -1,9 +1,11 @@
 * {
   margin: 10px;
   color: black;
+  text-align: center;
 }
 
 input[type="email"]{
     background-color: #ccc;
+    
 }
 
