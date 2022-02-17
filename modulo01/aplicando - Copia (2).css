@@ -1,0 +1,17 @@
+*{
+    /*seletor universal*/
+}
+
+p h1 {
+    /*seletor tag*/
+}
+
+
+
+h1{
+    background-color: aqua;
+    color: black;
+    margin: 20px;
+    padding: 30px;
+    align-items: center;
+}

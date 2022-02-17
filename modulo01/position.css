@@ -6,9 +6,21 @@
 }
 
 .texto {
-  width: 500px;
+  box-sizing: border-box;
+  width: 100px;
+  height: 100px;
   background-color: aqua;
   position: fixed;
   top: 10px;
   left: 10px;
+  overflow: auto;
+  transition: width 2s linear 2s , height 2s linear 2s;
+  
+}
+
+.texto:hover{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    color: aliceblue;
 }
