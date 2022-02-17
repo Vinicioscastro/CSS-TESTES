@@ -1,0 +1,17 @@
+.base {
+  width: 500px;
+  height: 500px;
+  background-color: aqua;
+}
+.esquerda {
+  width: 250px;
+  height: 250px;
+  background-color: red;
+  float: left;
+}
+.direita {
+  width: 250px;
+  height: 250px;
+  background-color: yellow;
+  float: right;
+}

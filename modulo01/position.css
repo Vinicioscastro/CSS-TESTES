@@ -1,0 +1,14 @@
+.conteudo {
+  width: 600px;
+  height: 1200px;
+  background-color: rebeccapurple;
+  position: relative;
+}
+
+.texto {
+  width: 500px;
+  background-color: aqua;
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}
